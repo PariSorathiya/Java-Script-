@@ -1,0 +1,149 @@
+Question for Java script 
+
+
+
+
+1. Definition of Java script?
+-> JavaScript is a light weight interpreted programming language with first-class functions. While is most well-known as the scripting language for web pages.
+
+2. What is the Java script?
+->   Java script is a single threaded programming language used to add interactivity in web pages.
+
+3. How to execute code in Java script?
+->  In Java script code is executed by line by line.
+
+4. Who developed Java script?
+->   Java script is a developed by Brendum Eich founder of java script.
+
+5. ES stands for?
+->  ECMAScript
+
+6. What is ECMAScript 6?
+->  ECMAScript 6 also known as  ES6 and ECMAScript 2015, is a significant update to the Java Script language that was standardized in June 2015. It introduced a variety of new features and 
+   syntax improvements aimed at making JavaScript code more readable, maintainable, and efficient. 
+
+7. What is the Key feature of Es6?
+->  1. let and const
+    2. Arrows function
+    3. Classes
+    4. Modules
+    5. Template literals
+   
+8. How many types of way to connect Java script and which?
+->  There are two ways to connect Java script
+  1. internal[<script>java script</script]
+  2. external[<script src="./script.js"> </script> in head or body]
+
+9. What is console?
+->  The console object in Java script provides access to the browser's debugging console, or the terminal in Node.js. It's primarily used for logging information debugging code, and interactivity with the runtime environment during development.
+
+10. How many types of console?
+->  1. console.log
+    2. console.warn
+    3. console.error
+
+11. What is the use of console.log?
+->  Use of the console.log when we have to print any message or value to the console.
+
+12. What is the use of console.warn?
+->  Use of console.warn when we have to given any warning message to the browser's console.
+
+13. What is the use of console.errors?
+->  Use of console.errors when we have to given any errors message to the console.
+
+15. What is the in built function in Java script?
+->  1. alert
+    2. Prompt
+    3. confirm
+
+16. What is the alert?
+->  The alert() function in JavaScript is used to display a modal dialog box with a specified message and an "OK" button. It is primarily used to provide information or warnings to the user.
+
+17. What is the confirm?
+->  The confirm() method in JavaScript displays a modal dialog box with a specified message, along with "OK" and "Cancel" buttons. It pauses the execution of the script until the user interacts with the dialog. 
+
+18. What is the prompt?
+->  In JavaScript, prompt is a function that displays a dialog box to the user, prompting them to enter some text. The dialog box includes an input field where the user can type their response, along with "OK" and "Cancel" buttons.
+
+19. JS in Inbuilt Function :-
+-> 1.alert (Output :- Undefined)
+   2.Prompt (Output :- Value) (Data type :- String)
+   3.Confirm (Output :- Tr
+
+20. What is variable?
+-> Variable in Java script are containers used for storing data values.
+
+21. How many keywords used to create variable in Java script?
+-> there are three keyword used to create variable in Java script:-
+  1. Var
+  2. Let
+  3. Const
+
+22. What is var?
+->  Var variable is re-declaration and re-initialize are both possible.
+
+23. What is Let?
+->  Let variable is re-declaration is not possible and re-initialize are possible.
+
+24. What is Const?
+->  Const variable is re-declaration and re-initialize are both not possible.
+
+25. NAN full form?
+->  Not a Number
+
+26. How many types of data types in Java script?
+-> There are 2 types of data types in Java script:-
+   1. Primitive
+   2. Non- primitive
+
+27. How many types in Primitive?
+->  In primitive there are 7 types:-
+   1. String
+   2. Number
+   3. Boolean
+   4. Null
+   5. Undefined
+   6. Symbol
+   7. Bigint
+
+28. How many types in Non-primitive?
+-> Object/Array
+
+29. How to check data type?
+-> to check the data type we can use typeof() functions.
+
+30. How many types of Operators?
+-> There are four types of Operators:-
+   1. Arithmetic Operators[+,-,*./]
+   2. Comparison Operators[<,>,<=,>=,/=,==,|=,===]
+   3. Logical Operators[&&,||]
+   4. Assignment Operators[+=,-=,*=,/=]
+
+31. What is ==?
+->  This is compare the value.
+
+32. What is ===?
+-> This is compare the data type and value both.
+
+33. How many types of conversion?
+-> There are two types of conversion:-
+   1. Implicit conversion
+   2. Explicit conversion
+
+34. What is the Implicit conversion?
+->  In implicit conversion java script/automatically are change the data type.
+
+35. What is the Explicit conversion?
+->  In explicit conversion we have to change the data type.
+
+36. What is a null?
+->  Null is an explicit value representing.
+ 
+37. What is a undefined?
+->  Undefined is a property of the global object.
+->  That is, it is a variable in global scope.
+
+38. What is a Template literals?
+->  Template literals are a JS feature introduced in ES6 (ECMA Script in 2015). Template literals is when we have to store any variable in string then use template.
+
+39. 
